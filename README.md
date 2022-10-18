@@ -63,7 +63,7 @@
 ### 담당 역할
 - 이슈 목록 페이지 구현
 
-### 작업 brnach
+### 작업 branch
 - [design-issue-list-page](https://github.com/wanted-team-11/assignment4/commits/design-issue-list-page) -> VSCode의 live share 기능 활용
 
 <hr/>
